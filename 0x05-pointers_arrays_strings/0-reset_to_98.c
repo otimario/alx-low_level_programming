@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * reset_to_98 - Tkes a pointer to an interger and point the value to 98
  *
