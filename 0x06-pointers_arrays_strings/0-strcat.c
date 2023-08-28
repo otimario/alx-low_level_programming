@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- *  _strcat - Concatenates teo strings
- *  @dest: The destination strng
- *  @src The source of sting
+ *  _strcat - Concatenates two strings
+ *  @dest: Input value of string
+ *  @src The input valuei
  *  Return: A pointer to the resulting string dest
  *
  */
