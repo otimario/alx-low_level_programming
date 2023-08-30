@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * _strbrk() - Entry point to locate the first occurence in the string
+ * _strpbrk - Entry point to locate the first occurence in the string
  * @s: input
  * @accept: input
  * return: Always 0 for success
