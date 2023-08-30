@@ -5,7 +5,7 @@
  * _strpbrk - Entry point to locate the first occurence in the string
  * @s: input
  * @accept: input
- * return: Always 0 for success
+ * Return: Always 0 for success
  *
  */
 
