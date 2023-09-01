@@ -2,7 +2,7 @@
 
 /**
  * factorial - will calculate the factorial of the gibven number
- * @in: An input to calculate factorial
+ * @n: An input to calculate factorial
  *
  * Return: interger
  *
